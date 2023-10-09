@@ -1,2 +1,2 @@
 # first-demo
-this is demo repo for practise
+this is demo repo for practise.
